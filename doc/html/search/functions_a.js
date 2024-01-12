@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['sensor_132',['Sensor',['../class_r_w_a2_1_1_sensor.html#af4db5781b647fdcfb84854562b3c016a',1,'RWA2::Sensor']]],
+  ['set_5faltitude_133',['set_altitude',['../class_r_w_a2_1_1_aerial_robot.html#a3b9ac299ef74e44dd3fa796ddd16b03a',1,'RWA2::AerialRobot']]],
+  ['set_5fcurrent_5fcharge_134',['set_current_charge',['../class_r_w_a2_1_1_battery.html#a83b545d01066300c341486ab8c749130',1,'RWA2::Battery']]],
+  ['set_5fdepth_135',['set_depth',['../class_r_w_a2_1_1_aquatic_robot.html#a797481e3ff12aa9578795bfbf195d5b4',1,'RWA2::AquaticRobot']]],
+  ['set_5fdesired_5fspeed_136',['set_desired_speed',['../class_r_w_a2_1_1_wheeled_robot.html#a25ed55a1c975c1b4f4183272fd176414',1,'RWA2::WheeledRobot']]],
+  ['set_5fdiving_137',['set_diving',['../class_r_w_a2_1_1_aquatic_robot.html#a01915a96ddea6ce7d4cac7d7d2dde77e',1,'RWA2::AquaticRobot']]],
+  ['set_5fflying_138',['set_flying',['../class_r_w_a2_1_1_aerial_robot.html#ac844b314a03e5f9876d979746f772454',1,'RWA2::AerialRobot']]],
+  ['set_5fheight_139',['set_height',['../class_r_w_a2_1_1_legged_robot.html#a2318e5bdbdea9c9ee4255be0eb8acca5',1,'RWA2::LeggedRobot']]],
+  ['set_5fis_5fcharging_140',['set_is_charging',['../class_r_w_a2_1_1_battery.html#a06024eb0d7f2938940db0492a455a0d4',1,'RWA2::Battery']]],
+  ['set_5fleg_5fstrength_141',['set_leg_strength',['../class_r_w_a2_1_1_legged_robot.html#a81f822d25f556b6fb069e5f77684ff8b',1,'RWA2::LeggedRobot']]],
+  ['set_5fnumber_5fof_5flegs_142',['set_number_of_legs',['../class_r_w_a2_1_1_legged_robot.html#afe937017d4a694a127682b6d82a65b55',1,'RWA2::LeggedRobot']]],
+  ['set_5fnumber_5fof_5fwheels_143',['set_number_of_wheels',['../class_r_w_a2_1_1_wheeled_robot.html#a79a9083dca528fabeab8ab5030db6e3d',1,'RWA2::WheeledRobot']]],
+  ['set_5forientation_144',['set_orientation',['../class_r_w_a2_1_1_mobile_robot.html#aaf38ba2c27c869477e0ac4eb550d4824',1,'RWA2::MobileRobot']]],
+  ['set_5fposition_145',['set_position',['../class_r_w_a2_1_1_mobile_robot.html#a4fc2cb474faaec3e694fb5ad9c329338',1,'RWA2::MobileRobot']]],
+  ['set_5fspeed_146',['set_speed',['../class_r_w_a2_1_1_mobile_robot.html#aac762476986cfe5b1c7653a34ac81f21',1,'RWA2::MobileRobot']]],
+  ['set_5fwheel_5fdiameter_147',['set_wheel_diameter',['../class_r_w_a2_1_1_wheeled_robot.html#af9bec643a3c88e611c11b5720fd84ac8',1,'RWA2::WheeledRobot']]],
+  ['start_5fcharging_148',['start_charging',['../class_r_w_a2_1_1_battery.html#a65c31a8b2f786fa04c52383db001492a',1,'RWA2::Battery']]]
+];

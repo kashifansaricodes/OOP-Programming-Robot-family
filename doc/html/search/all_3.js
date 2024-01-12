@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['get_5faltitude_12',['get_altitude',['../class_r_w_a2_1_1_aerial_robot.html#a13cd8a5b7e3bfbb49a4cc2d0d638c7cf',1,'RWA2::AerialRobot']]],
+  ['get_5fbattery_5flevel_13',['get_battery_level',['../class_r_w_a2_1_1_mobile_robot.html#a5c7d6aa9eb003992d1bb8abc11e6f71d',1,'RWA2::MobileRobot']]],
+  ['get_5fcurrent_5fcharge_14',['get_current_charge',['../class_r_w_a2_1_1_battery.html#a8c7b14e505f2e98fc6b1379bd3e1a9bb',1,'RWA2::Battery']]],
+  ['get_5fdepth_15',['get_depth',['../class_r_w_a2_1_1_aquatic_robot.html#a9492d206bc0b941d6e14bafee5d5877e',1,'RWA2::AquaticRobot']]],
+  ['get_5fdesired_5fspeed_16',['get_desired_speed',['../class_r_w_a2_1_1_wheeled_robot.html#af689dc018568650c4bc0693891715a38',1,'RWA2::WheeledRobot']]],
+  ['get_5fheight_17',['get_height',['../class_r_w_a2_1_1_legged_robot.html#ac6d0c252ed7bcac5a56b2dddb238068e',1,'RWA2::LeggedRobot']]],
+  ['get_5fleg_5fstrength_18',['get_leg_strength',['../class_r_w_a2_1_1_legged_robot.html#ad0e30e5e02e83497d6d3ae5023834965',1,'RWA2::LeggedRobot']]],
+  ['get_5fmodel_19',['get_model',['../class_r_w_a2_1_1_sensor.html#add4c3ce0391dc4c488c5873cb735fc9e',1,'RWA2::Sensor::get_model()'],['../class_r_w_a2_1_1_mobile_robot.html#a32a5fd2c950f16f991cc4bb1ca9a3480',1,'RWA2::MobileRobot::get_model()'],['../class_r_w_a2_1_1_battery.html#afd3c10a9e4521a773a4f60aa68251ad4',1,'RWA2::Battery::get_model()']]],
+  ['get_5fnumber_5fof_5flegs_20',['get_number_of_legs',['../class_r_w_a2_1_1_legged_robot.html#aee8b2f93ade5b9383c43b126fb8daa55',1,'RWA2::LeggedRobot']]],
+  ['get_5fnumber_5fof_5fwheels_21',['get_number_of_wheels',['../class_r_w_a2_1_1_wheeled_robot.html#a0cfb7b423000a88a976ddab839f8b3b3',1,'RWA2::WheeledRobot']]],
+  ['get_5forientation_22',['get_orientation',['../class_r_w_a2_1_1_mobile_robot.html#ab2d3154f968dce16d852d01e35878a88',1,'RWA2::MobileRobot']]],
+  ['get_5fposition_23',['get_position',['../class_r_w_a2_1_1_mobile_robot.html#ad8c749d6844798f43c61502c22e8da95',1,'RWA2::MobileRobot']]],
+  ['get_5fsensor_5fdata_24',['get_sensor_data',['../class_r_w_a2_1_1_sensor.html#acc53eb842de514d6c41b82cb5bd3efa7',1,'RWA2::Sensor']]],
+  ['get_5fsensor_5freading_25',['get_sensor_reading',['../class_r_w_a2_1_1_mobile_robot.html#aa52ecf04e381e7737eb54bd2b11319d0',1,'RWA2::MobileRobot']]],
+  ['get_5fspeed_26',['get_speed',['../class_r_w_a2_1_1_mobile_robot.html#ab43507b4b2f3d62eb4d5e6f43bcc2463',1,'RWA2::MobileRobot']]],
+  ['get_5fwheel_5fdiameter_27',['get_wheel_diameter',['../class_r_w_a2_1_1_wheeled_robot.html#a30f55c8d24620b9bfaecd13a128985b2',1,'RWA2::WheeledRobot']]]
+];
